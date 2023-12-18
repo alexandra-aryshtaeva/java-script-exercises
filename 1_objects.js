@@ -45,6 +45,8 @@ function Player(name, marker) {
 const coolplayer1 = new Player("Steve", "O");
 const coolplayer2 = new Player("Garret", "X");
 
+// ____________________________________
+
 function Coach(name, age) {
   this.name = name;
   this.age = age;
